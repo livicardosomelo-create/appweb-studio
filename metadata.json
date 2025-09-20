@@ -1,0 +1,5 @@
+{
+  "name": "Analista de Opções Binárias com IA",
+  "description": "Um assistente de negociação especialista que analisa gráficos de candlestick para os timeframes M1 e M5 para gerar sinais de opções binárias rápidos e precisos para a próxima vela.",
+  "requestFramePermissions": []
+}
